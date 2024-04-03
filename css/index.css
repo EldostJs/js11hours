@@ -1,0 +1,51 @@
+
+.calculator{
+    background-color: orange;
+    margin: auto;
+    text-align: center;
+    border: solid;
+    width: 15%;
+}
+#result{
+    border: solid;
+    background-color: white;
+}
+
+.nums{
+    margin-top: 10px;
+    background-color: lightgray;
+    color: black;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.op{
+    margin-top: 10px;
+    background-color: lightgray;
+    color: black;
+    font-weight: 700;
+    font-size: large;
+    width: 14%;
+}
+.equal{
+    background-color: lightgray;
+    color: black;
+    font-weight: 700;
+    font-size: large;
+    width: 14%; 
+    margin-top: 10px;
+}
+.delete{
+    background-color: lightgray;
+    color: black;
+    font-weight: 700;
+    font-size: large;
+    width: 14%; 
+    margin-top: 10px; 
+}
+.op2{
+    display: flex;
+    margin-left: 20px;
+    height: 180px;
+    margin-top: -180px;
+} 
